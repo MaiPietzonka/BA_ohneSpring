@@ -1,0 +1,16 @@
+/Users/maipieztonka/Documents/GitHub/Ba_ohneSpringBoot/src/main/java/metricslibrary/metrics/time/MyTimeManuel.java
+/Users/maipieztonka/Documents/GitHub/Ba_ohneSpringBoot/src/main/java/metricslibrary/metrics/count/MyCount.java
+/Users/maipieztonka/Documents/GitHub/Ba_ohneSpringBoot/src/main/java/metricslibrary/metrics/MetricType.java
+/Users/maipieztonka/Documents/GitHub/Ba_ohneSpringBoot/src/main/java/metricslibrary/metrics/MeasureType.java
+/Users/maipieztonka/Documents/GitHub/Ba_ohneSpringBoot/src/main/java/metricslibrary/configuration/InfluxConfiguration.java
+/Users/maipieztonka/Documents/GitHub/Ba_ohneSpringBoot/src/main/java/metricslibrary/store/StoreObject.java
+/Users/maipieztonka/Documents/GitHub/Ba_ohneSpringBoot/src/main/java/metricslibrary/metrics/gauge/MyGaugeManuel.java
+/Users/maipieztonka/Documents/GitHub/Ba_ohneSpringBoot/src/main/java/metricslibrary/metrics/time/MyDisSum.java
+/Users/maipieztonka/Documents/GitHub/Ba_ohneSpringBoot/src/main/java/metricslibrary/metrics/MeterRegisterService.java
+/Users/maipieztonka/Documents/GitHub/Ba_ohneSpringBoot/src/main/java/metricslibrary/metrics/gauge/MyGauge.java
+/Users/maipieztonka/Documents/GitHub/Ba_ohneSpringBoot/src/main/java/metricslibrary/repository/DbConnection.java
+/Users/maipieztonka/Documents/GitHub/Ba_ohneSpringBoot/src/main/java/metricslibrary/repository/TaskCreator.java
+/Users/maipieztonka/Documents/GitHub/Ba_ohneSpringBoot/src/main/java/metricslibrary/store/StoreData.java
+/Users/maipieztonka/Documents/GitHub/Ba_ohneSpringBoot/src/main/java/metricslibrary/metrics/MeasureFactory.java
+/Users/maipieztonka/Documents/GitHub/Ba_ohneSpringBoot/src/main/java/metricslibrary/repository/BucketCreator.java
+/Users/maipieztonka/Documents/GitHub/Ba_ohneSpringBoot/src/main/java/metricslibrary/metrics/time/MyTime.java
